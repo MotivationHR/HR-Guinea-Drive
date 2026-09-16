@@ -1,0 +1,17 @@
+{
+  "FileVersion": 3,
+  "EngineAssociation": "5.8",
+  "Category": "Games",
+  "Description": "HR Guinea Drive — realistic offline-first driving game inspired by Guinea.",
+  "Modules": [
+    {
+      "Name": "HRGuineaDrive",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ],
+  "Plugins": [
+    { "Name": "ChaosVehiclesPlugin", "Enabled": true },
+    { "Name": "EnhancedInput", "Enabled": true }
+  ]
+}
