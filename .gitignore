@@ -1,0 +1,32 @@
+# Unreal Engine generated folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+.vs/
+.vscode/
+.idea/
+*.VC.db
+*.VC.opendb
+*.sln
+
+# Build/package outputs
+Build/
+StagedBuilds/
+Packaging/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Logs and crash data
+*.log
+crashinfo--*
+
+# Keep source/config/content and project descriptor
+!Config/
+!Content/
+!Source/
+!Plugins/
+!*.uproject
